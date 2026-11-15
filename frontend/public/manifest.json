@@ -1,0 +1,16 @@
+{
+  "short_name": "AgriVeda",
+  "name": "AgriVeda – Smart Agriculture Marketplace & Problem Solver",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512 192x192 64x64 32x32"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "theme_color": "#15803d",
+  "display": "standalone",
+  "orientation": "portrait"
+}
